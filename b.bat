@@ -1,0 +1,1 @@
+php -S localhost:8081 -d short_open_tag=on -d display_errors=on -d mbstring.internal_encoding=utf-8 -d opcache.revalidate_freq=0 -d memory_limit=1024M -d max_input_vars=10000 -d date.timezone=Europe/Moscow 
