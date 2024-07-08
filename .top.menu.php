@@ -35,6 +35,20 @@ $aMenuLinks = Array(
 		Array(), 
 		Array(), 
 		"" 
-	)
+	),
+	Array(
+		"Задание 1", 
+		"feedbacks/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Задание 2", 
+		"smplecomp/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
 );
 ?>

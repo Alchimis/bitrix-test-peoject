@@ -1,0 +1,34 @@
+.card{
+    overflow-wrap: break-word; 
+    padding: 24px; 
+    background-color: #f3f1fb; 
+    border-radius: 8px; 
+    color: #424244; 
+    font-size: 1.25em
+}
+
+.news-heading{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: #424244; 
+    font-size: 1em;
+}
+
+.default-text{
+    color: #424244; 
+    font-size: 0.875em;
+}
+
+.catalog-heading-container{
+    margin: 8px 0px;
+}
+
+.catalog-heading{
+    font-size: 1.5em;
+    color: #424244;
+}
+
+.items-container{
+    padding-left: 16px;
+}
